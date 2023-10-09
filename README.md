@@ -1,6 +1,4 @@
-<h3 align="center">🌱 Aspiring C# developer, currently studying MS SQL, HTML and CSS 🌳</h3>
-
-<h4>Greetings! I'm on an exciting journey to kickstart my career as a developer in the IT realm. </h4>
+<h3 align="center">Greetings! I'm on an exciting journey to kickstart my career as a developer in the IT realm. </h3>
 
 🌟 **Enthusiastic Learner**: I am always open to learning something new every day. Whether it's mastering a new coding language or tackling complex challenges, I approach each task with a contagious enthusiasm.
 
