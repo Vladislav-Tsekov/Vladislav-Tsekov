@@ -1,18 +1,7 @@
-<h3 align="center">Greetings! I'm on an exciting journey to kickstart my career as a developer in the IT realm. </h3>
-
-🌟 **Enthusiastic Learner**: I am always open to learning something new every day. Whether it's mastering a new coding language or tackling complex challenges, I approach each task with a contagious enthusiasm.
-
-🤝 **Collaborative Team Player**: I believe in the power of teamwork. My ability to communicate, listen actively, and contribute constructively allows me to foster strong, supportive relationships with colleagues. I understand that diverse perspectives make for stronger solutions.
-
-📊 **Organized Problem Solver**: Precision and organization are my allies in the quest for efficient solutions. I approach problems with a structured mindset, breaking them down into manageable steps to ensure timely and effective resolutions.
-
 💻 **C# Development Enthusiast**: I'm presently refining my expertise in C# development, harnessing my enthusiasm for crafting clean code and user-friendly interfaces. The prospect of applying these skills to real-world projects, contributing to innovative solutions, and continually sharpening my programming abilities excites me.
 
-📚 **Lifelong Learner**: In the ever-evolving field of technology, staying updated is crucial. I'm dedicated to continuous growth and keeping pace with emerging trends.
-
-🌟 **Eager to Grow**: I see every challenge as an opportunity to grow. My goal is not just to secure my first IT job but to excel and evolve as a developer!
-
 <h3 align="center">👨‍💻 Languages and Tools 👨‍💻</h3>
+
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
