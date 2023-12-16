@@ -1,4 +1,4 @@
-I'm presently refining my expertise in C# development, harnessing my enthusiasm for crafting clean code and user-friendly interfaces. The prospect of applying these skills to real-world projects, contributing to innovative solutions, and continually sharpening my programming abilities excites me.
+I'm presently refining my expertise in C# web development, harnessing my enthusiasm for crafting clean code and user-friendly interfaces.
 
 <h3 align="center">👨‍💻 Tech Stack 👨‍💻</h3>
 
