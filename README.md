@@ -1,4 +1,4 @@
-I'm presently refining my expertise in C# web development, harnessing my enthusiasm for writing clean code.
+<p align="center"> I'm presently refining my expertise in C# web development, harnessing my enthusiasm for writing clean code.</p>
 
 <h3 align="center">👨‍💻 Tech Stack 👨‍💻</h3>
 
