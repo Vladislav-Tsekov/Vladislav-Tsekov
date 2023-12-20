@@ -8,16 +8,6 @@
 
 📚 Furthermore, I am fellow Lord of the Rings fan. I find immense joy in delving into the stories from Middle-earth and all around it. 
 
-<h3 align="center">📋 Projects 📋</h3>
-
-<a href ="https://github.com/Vladislav-Tsekov/VehEvalu8">**VehEvalu8**</a> is a tool for analyzing used vehicles, offering a comprehensive evaluation of their investment potential and projecting anticipated returns (ROI), as well as other valuable information. The project harnesses actual market data, enabling users to make informed decisions. The project's name derives from "Vehicle Evaluate".
-
-<a href ="https://github.com/Vladislav-Tsekov/WebScraperV1">**WebScraperV1**</a> as it's name suggests - is a web scraper, used for gathering data that is essential for the proper functioning of "VehEvalu8".
-
-<a href ="https://github.com/Vladislav-Tsekov/Auto-Vault">**Auto-Vault**</a> was created from leftover data, collected from various websites while I was playing around with the idea of web scraping and crawling. It represents a huge dataset with over 40,000 car entries.
-
-**(TBA) TrackBuddy / TrailMate / or name-to-be-decided** will be an application that allows offroad riders to find clubs, schedule events, and meet fellow adrenaline junkies near them.
-
 <h3 align="center">👨‍💻 Tech Stack 👨‍💻</h3>
 
 <p align="center"> 
